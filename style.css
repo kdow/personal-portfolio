@@ -37,6 +37,23 @@ a {
   width: 100vw;
 }
 
+#welcome-description {
+  padding-bottom: 20px;
+}
+
+#button a {
+  border: 1px solid white;
+  padding: 1em;
+}
+
+#button a, .fa {
+  color: white;
+}
+
+#button a:hover, .fa:hover {
+  font-size: 1.1em;
+}
+
 #projects {
   background-color: #f6f9fa;
   text-align: center;
@@ -82,7 +99,7 @@ a {
   margin-bottom: -10px;
 }
 
-.fa {
+#contact .fa {
   color: #30474F;
   padding: 10px;
 }
