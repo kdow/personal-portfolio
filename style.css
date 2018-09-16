@@ -77,7 +77,6 @@ a {
   height: 200px;
   width: 250px;
   margin: 50px;
-
 }
 
 .project-tile:hover {
@@ -113,9 +112,5 @@ a {
     flex-direction: row;
     justify-content: center;
     padding: 100px 0 150px 0;
-  }
-
-  h2 {
-    text-align: left;
   }
 }
